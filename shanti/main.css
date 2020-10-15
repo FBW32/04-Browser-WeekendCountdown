@@ -1,0 +1,10 @@
+#text::after {
+    content: "\1F60A";
+  }
+
+body {
+  margin: 0 auto;
+  width: 40%;
+  padding: 20px;
+  
+}
